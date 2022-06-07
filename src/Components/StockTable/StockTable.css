@@ -1,0 +1,35 @@
+.stockTableContainer {
+    width: 43rem;
+    height: 40rem;
+    margin-top: 2rem;
+}
+
+.stockTable {
+	background-color: rgb(237, 237, 237);
+}
+
+.stockTable td {
+    border: 1;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(00,00,00,.1);
+}
+
+.analytic {
+    width: 18rem;
+}
+
+.value {
+    width: 18rem;
+}
+
+.stockToprow {
+    background-color: rgba(8, 6, 72, 0.909);
+    color: white;
+    height: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.dlyChange {
+    font-weight: bold;
+}

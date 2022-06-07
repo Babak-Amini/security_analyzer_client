@@ -1,0 +1,25 @@
+.spyTableContainer {
+    width: 41.5rem;
+    margin-top: 2rem;
+}
+
+.heldTable {
+    width: 40rem;
+	background-color: rgb(237, 237, 237);
+}
+
+.heldToprow {
+    background-color: rgba(8, 6, 72, 0.909);
+    color: white;
+    height: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.heldTd {
+    max-width: 10rem;
+	border: 1;
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(00,00,00,.1);
+	cursor: pointer;
+}
